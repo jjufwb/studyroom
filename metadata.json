@@ -1,0 +1,6 @@
+{
+  "name": "스터디실 대여 신청",
+  "description": "스터디실 대여 신청 및 예약 내역을 관리하고 엑셀(.xlsx) 파일로 내보낼 수 있는 모던 화이트 톤 웹 애플리케이션입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
